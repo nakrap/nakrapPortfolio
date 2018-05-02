@@ -1,0 +1,40 @@
+#boxL, #boxR { 
+    border: 1px solid lightgray;
+    background-color: #fff;
+    margin-bottom: 400px; 
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+#boxR {
+    margin-left: 80px; 
+}
+
+form {
+    padding-top: 20px;
+}
+
+.column .column2 {
+    border: 1px solid lightgray;
+    margin-bottom: 400px; 
+}
+
+#git {
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+#linked {
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+#stack {
+    margin-left: 15px;
+}
+
+.icons {
+    width: 60px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
